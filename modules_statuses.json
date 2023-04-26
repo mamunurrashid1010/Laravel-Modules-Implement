@@ -1,5 +1,6 @@
 {
     "Blog": true,
     "HRM": true,
-    "Accounts": true
+    "Accounts": true,
+    "CRM": true
 }
